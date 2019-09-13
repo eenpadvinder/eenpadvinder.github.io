@@ -1,0 +1,14 @@
+---
+layout: default
+title: Verschijningsplaatsen
+---
+<h1>Verschijningsplaatsen</h1>
+
+<ul>
+  {% for vpl in site.verschijningsplaatsen %}
+    <li>
+      <h2><a href="{{ vpl.url }}">{{ vpl.name }}</a></h2>
+      <p>{{ vpl.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
