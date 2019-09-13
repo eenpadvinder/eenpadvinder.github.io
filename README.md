@@ -1,2 +1,3 @@
-# eenpadvinder.github.io
-Blog
+---
+permalink: /index.html
+---
