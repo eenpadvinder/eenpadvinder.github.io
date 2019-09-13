@@ -1,3 +1,58 @@
+body {
+	color: #111;
+	font-family: Georgia, Serif;
+}
+
+#wrapper {
+	width: 100%;
+	max-width: 720px;
+	margin: 0 auto;
+	padding: 0 5%
+}
+
+a {
+	text-decoration: none;
+	color: #111;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1, h2 {
+	font-weight: normal;
+	font-style: italic;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+p {
+	line-height: 150%;
+	font-size: 1.2rem;
+}
+
+.site-title {
+	font-family: Helvetica Neue, Helvetica, Arial;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.posts-home {
+	list-style: none;
+	padding: 0;
+}
+
+.date {
+	font-style: italic;
+	color: #727A8B;
+}
+
 .current {
-  color: green;
+  color: red;
 }

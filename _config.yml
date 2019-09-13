@@ -1,7 +1,9 @@
 collections:
   verschijningsplaatsen:
     output: true
-
+  categorieen:
+    output: true
+    
 defaults:
   - scope:
       path: ""

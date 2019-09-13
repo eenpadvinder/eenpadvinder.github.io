@@ -2,12 +2,27 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p>
-	{{ page.date | date_to_string }}
-	{% assign verschijningsplaats = site.verschijningsplaatsen | where: 'short_name', page.verschijningsplaats | first %}
-  {% if verschijningsplaats %}
-    - <a href="{{ verschijningsplaats.url }}">{{ verschijningsplaats.name }}</a>
-  {% endif %}
-</p>
+<p>{% include date.html %}</p>
 
 {{ content }}
+
+<ul>
+
+	{% assign categorie = site.categorieen | where: 'short_name', page.categorie | first %}
+  {% if categorie %}
+    <li>Categorie: 
+    	<a href="{{ categorie.url }}">{{ categorie.name }}</a>
+		</li>
+  {% endif %}
+
+	{% assign verschijningsplaats = site.verschijningsplaatsen | where: 'short_name', page.verschijningsplaats | first %}
+  {% if verschijningsplaats %}
+    <li>Verschijningsplaats: 
+    	<a href="{{ verschijningsplaats.url }}">{{ verschijningsplaats.name }}</a>
+  		{% if page.nummer %}
+  			<i>(no. {{ page.nummer }})</i>
+		  {% endif %}
+		</li>
+  {% endif %}
+
+</ul>
