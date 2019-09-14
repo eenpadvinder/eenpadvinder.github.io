@@ -1,0 +1,13 @@
+---
+title: Echt, maar niet waar
+date: 2019-09-01
+categorie: column
+verschijningsplaats: volzin
+nummer: nr. 9 2019
+---
+
+*Kan ik mijn diepste gevoelens wel bij hem kwijt? Misschien is hij helemaal niet geïnteresseerd in wat mij bezighoudt, passen we toch niet zo goed bij elkaar als ik dacht,* maalde het door mijn hoofd. Eerder die week had ik het met mijn vriend, Daury, gehad over waarom ik aan meditatie deed, maar mijn enthousiasme was vrij plots afgekapt door een (in mijn beleving) wat botte opmerking van zijn kant. Ik had er op het moment zelf niet al te veel van gedacht, maar de herinnering was een eigen leven gaan leiden en blijkbaar waren daar in mijn hoofd inmiddels nogal drastische conclusies aan verbonden.
+
+De Tibetaanse monnik Tsoknyi Rinpoche vertelt graag het verhaal over een glazen brug over een ravijn die hij ooit overstak. De diepte onder hem riep zo’n heftige angstreactie op dat hij volledig verstijfde. De kans dat hij daadwerkelijk dood zou gaan was – gezien de honderdduizenden toeristen die de brug ieder jaar oversteken – nihil, maar het gevoel was daarom niet minder echt. Er ontstond een strijd tussen de emotie – het stemmetje dat gilde dat hij dood zou gaan – en de ratio die als een strenge vader zei dat hij zich niet moest aanstellen. Tsoknyi besefte op dat moment dat dit helemaal geen strijd hoeft te zijn: de emotie die hij ervoer was levensecht en tegelijkertijd wist hij dondersgoed dat hij niet zou doodgaan. Zijn angst was *real but not true (echt, maar niet waar)*.
+
+Later die week kwam het voorval tussen Daury en mij ter sprake. “Wat was het ergste scenario dat je je erbij voorstelde?” vroeg hij. Die vraag was confronterend: ik was niet trots op mijn gedachten en zolang ze niet uitgesproken waren, kon ik nog doen alsof ze niet bestonden. In die vraag zat echter ook de boodschap dat alle gevoelens en gedachten er mogen zijn, ongeacht de wenselijkheid of realiteit ervan. Met die accepterende houding liet hij zien dat hij mijn gevoel als *echt* erkende, ook al was het allemaal niet per se *waar*. Dat was het zetje dat ik nodig had en ik vertelde hem alles wat ik die week had gedacht. Terwijl we dit bespraken besefte ik dat ik nooit eerder bij iemand zo kwetsbaar, zo open, zo volledig mijzelf had kunnen zijn, zelfs niet tegenover mijzelf. Ik keek Daury aan en merkte nieuwe gedachten en gevoelens opkomen: *ik heb nog nooit zoveel van iemand gehouden*. En dat was echt én waar.
