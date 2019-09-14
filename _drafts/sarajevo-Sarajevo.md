@@ -1,0 +1,12 @@
+---
+id: 22
+title: Sarajevo
+date: 2015-07-31T10:00:00+00:00
+author: Jeroen Fierens
+layout: post
+guid: http://eenpadvinder.nl/sarajevo/
+permalink: /?p=22
+categories:
+  - overige
+---
+De ruïne van het oude fort staat vol mensen. Vanaf daar kun je bijna de hele stad zien die over heuvels ligt uitgespreid. Het is Ramadan. De mensen wachten tot de zon achter de bergen verdwijnt, en dan nog wat langer, totdat uit het kanon op het fort een vuurpijl de lucht in wordt geschoten. Daarna barst het feest los en mogen de meegenomen pizzadozen geopend worden: de *iftar* kan beginnen. Het doet me een beetje denken aan carnaval en ik vraag me af of ze daar op het fort net zoveel waarde hechten aan het vasten na het feesten als sommige van mijn Brabantse vrienden. De vergelijking lijkt misschien wat vergezocht, maar zo vreemd is hij niet. Net als in een willekeurige Brabantse stad, is religie in Sarajevo vooral zichtbaar in haar invloed op de cultuur: religieuze gebouwen, tradities, manieren van spreken. Dat wil niet zeggen dat er geen devote gelovigen wonen, maar dat voor het grote overige deel van de bevolking religie nu eenmaal deel is van de leefwereld, zonder dat daar een sterke persoonlijke betrokkenheid bij komt kijken. In die zin is Sarajevo niet veel anders dan andere Europese steden. Behalve dus dat een groot deel van de torens in de stad geen kerktorens maar minaretten zijn. In de vijftiende eeuw kwam de islam met de Ottomanen mee naar Bosnië en sindsdien heeft het zich in dit land op zijn eigen manier ontwikkeld, samen met onder andere de katholieke en orthodoxe kerk. In die zin is Sarajevo uniek. “Vóór de oorlog waren 20% van de huwelijken gemixt en gingen christenen soms gewoon met hun moslimvrienden op vrijdag mee naar de moskee,” vertelt Mickey, halverwege de zestig, die al zijn hele leven in het oude stadscentrum woont. “Sinds de oorlog zijn er wat meer spanningen, maar de verschillende geloven zijn hier door de eeuwen met elkaar vergroeid geraakt, dat verandert niet zomaar.” *Vergroeid.* Dat woord geeft me hoop. Niet omdat de Bosnische situatie perfect is of vergelijkbaar zou zijn met de onze, maar omdat culturen blijkbaar wegen kunnen vinden om samen verder te gaan zonder te moeten versmelten tot één geheel. Ze vergroeien, zoals bomen dat kunnen, hun wortels stevig in de aarde, maar hun takken met elkaar verstrengeld. Wie weet proosten we over 100 jaar in de straten van onze steden op het begin van de iftar. Ik zou het graag nog meemaken.

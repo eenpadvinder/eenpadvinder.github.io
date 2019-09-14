@@ -3,6 +3,7 @@ title: Een bijzondere oudejaarsavond
 date: 2018-08-01
 categorie: column
 verschijningsplaats: volzin
+nummer: nr. 8 2018
 tags: [aspocalyps]
 ---
 

@@ -3,6 +3,7 @@ title: Blackwashing
 date: 2018-10-01
 categorie: column
 verschijningsplaats: volzin
+nummer: nr. 10 2018
 tags: [diversiteit, samenleving, verhalen]
 ---
 

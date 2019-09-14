@@ -1,0 +1,12 @@
+---
+id: 29
+title: Slenteren
+date: 2015-05-26T10:00:00+00:00
+author: Jeroen Fierens
+layout: post
+guid: http://eenpadvinder.nl/slenteren/
+permalink: /?p=29
+categories:
+  - overige
+---
+Het leukste aan wonen in de stad is slenteren. In een dorp kan dat niet. Je kunt er wandelen, rennen, de hond uitlaten, simpelweg lopen, maar slenteren is voorbehouden aan de stad. Soms slenter ik langs de grachten, met een koptelefoon en capuchon op m’n hoofd. Soms slenter ik langs de rijtjeshuizen en gluur door de ramen naar binnen, waar vastgeroeste koppels met een zak chips op de bank naar RTL Late Night kijken. Vanavond slenterde ik door het Wilhelminapark. Het was er leeg. Pas halverwege m’n rondje zag ik de eerste mens: een man met rode wietogen op een bankje. “Goedenavond,” mompelde ik. In het restaurant was het personeel bezig met opruimen. Wijnglazen die eerder die dag bevuild waren tijdens zakenlunches en diners van omhoog gevallen families stonden strak naast elkaar te glanzen, wachtend op een nieuwe dag met meer van hetzelfde. Een knap meisje met een strak wit blousje blies de kaarsen op de tafels uit. Net voorbij het restaurant bestudeerden twee homo’s, waarvan één een felgroene broek droeg, ongewoon aandachtig de witte bloesem van een struik. Een wit papiertje op een prullenbak trok mijn aandacht. ‘TRUTH CONTEST’ stond er met grote letters. Daaronder een oproep deel te nemen aan de zoektocht naar waarheid, het enige dat de mensheid kan redden. Ik hurkte om het beter te kunnen lezen.   > “This contest is seeking the answers to the big questions of life, where we come from, where we are going, why we are here, the truth about life and death. If you know the answers, make an entry.”   Helemaal onderaan het papier zaten afscheurstrookjes met daarop de url. Het plakband zat er overheen zodat je ze niet kon afscheuren. Ik ging op een bankje zitten en rookte een sigaret. Hij smaakte me niet. Eenmaal thuisgekomen zocht ik de website van de Truth Contest op. Ik klikte wat heen-en-weer, maar begreep niet echt waar het over ging. *“Just remember that Jesus did not do recreational drugs,”* las ik. Ik vroeg me af wie hier in hemelsnaam zijn printpapier aan had besteed. Misschien de meneer met de wietogen.

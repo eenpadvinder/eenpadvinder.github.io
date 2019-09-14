@@ -3,6 +3,7 @@ title: De maakbare mens
 date: 2018-11-01
 categorie: column
 verschijningsplaats: volzin
+nummer: nr. 11 2018
 tags: [controle, lichaam, maakbaarheid, sport, zinloosheid]
 ---
 

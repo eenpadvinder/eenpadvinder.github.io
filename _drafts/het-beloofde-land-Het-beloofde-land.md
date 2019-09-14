@@ -1,0 +1,12 @@
+---
+id: 17
+title: Het beloofde land
+date: 2015-02-27T14:44:00+00:00
+author: Jeroen Fierens
+layout: post
+guid: http://eenpadvinder.nl/het-beloofde-land/
+permalink: /?p=17
+categories:
+  - overige
+---
+Ik heb maar weinig van Parijs gezien, maar ik stel me zo voor dat het de meest troosteloze plek van de stad is: het ondergrondse busstation van Eurolines. Betonnen pilaren houden een betonnen plafond boven het donkergrijze asfalt. TL-lampen die allemaal nét anders scheef hangen hullen de kelder dag en nacht in een kaal monotoon licht. Pogingen om het grijs te verdrijven, grote banners met foto's van vrolijke mensen en namen van steden in pastelkleuren, dragen slechts bij aan de absurde sfeer.  Ik ben op weg naar Taizé, een oecumenische kloostergemeenschap waar ieder jaar tienduizenden jongeren uit de hele wereld op af komen om een tijdje mee te leven in het kloosterritme en elkaar te ontmoeten. Het is een wonderlijke, vredige plek. Veel mensen omschrijven het als de hemel op aarde, hoewel de broeders van Taizé die beschrijving in hun bescheidenheid nooit zouden beamen.  Hemel op aarde of niet, ik moet door een woestijn heen om in het beloofde land te komen. Het is ieder voor zich in de nachtbus. Rugleuningen worden zonder achterom te kijken naar achteren gegooid, zitplaatsen worden ingepikt tijdens de plaspauze, en als je dan echt per se naast iemand moet zitten omdat er verder nergens plek meer is, kun je de rest van de rit rekenen op boze blikken. De eerste prioriteit is het behoud van je knieschijven, eventueel slapen komt op de tweede plaats.  Het is half vier ’s nachts als ik uitstap bij het station van Dijon, dat nog gesloten blijkt. In de vrieskou wacht ik voor de schuifdeuren totdat ze open gaan. Links van me zit een jongen met een sjaal voor z’n gezicht en een capuchon op. Hij praat aan één stuk door, maar het is niet duidelijk tegen wie. Soms kijkt hij me ineens aan en zegt iets onverstaanbaars, waarna hij zich weer in zichzelf keert. Hij heeft een fles wijn in z’n handen, maar krijgt de kurk er niet uit. Ik probeer hem te helpen met m’n sleutelbos en na een paar minuten schiet de kurk met een triomfantelijke ploep de fles in. De ogen boven de sjaal kijken me blij aan en de in handschoenen verpakte handen bieden me de fles aan. Ik ga naast hem zitten en neem een slok. De sterren steken helder af tegen de bevroren hemel. We zeggen wat onsamenhangende zinnen tegen elkaar terwijl we de fles leegdrinken en ik denk: het beloofde land is dichterbij dan ik dacht.

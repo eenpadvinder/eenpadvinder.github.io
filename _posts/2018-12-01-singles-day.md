@@ -3,7 +3,7 @@ title: Singles day
 date: 2018-12-01
 categorie: column
 verschijningsplaats: volzin
-nummer: 12 2018
+nummer: nr. 12 2018
 tags: [bezit, consumentisme, onthouding, single zijn]
 ---
 
