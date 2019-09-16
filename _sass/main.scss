@@ -5,8 +5,11 @@ body {
 
 #wrapper {
 	width: 100%;
-	max-width: 720px;
-	margin: 0 auto;
+	max-width: 800px;
+	margin: 6rem auto;
+}
+
+#page {
 	padding: 0 5%
 }
 
@@ -81,4 +84,27 @@ p {
 
 .current {
   color: red;
+}
+
+
+#archief-jaarlijks ul {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+
+#archief-link {
+	display: block;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 2em;
+	transition: padding .5s, text-decoration .5s;
+}
+
+#archief-link:hover {
+	padding-left: 20px;
+}
+
+#archief-link .fas {
+	margin-right: 10px;
 }

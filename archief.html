@@ -1,0 +1,18 @@
+---
+title: Een Padvinder - Archief
+layout: default
+---
+<h1>De archieven</h1>
+<div id="archief-jaarlijks">
+{% for post in site.posts %}
+   {% assign currentDate = post.date | date: "%Y" %}
+   {% if currentDate != myDate %}
+       {% unless forloop.first %}</ul>{% endunless %}
+       <h2>{{ currentDate }}</h2>
+       <ul>
+       {% assign myDate = currentDate %}
+   {% endif %}
+   <li><a href="{{ post.url }}">{{ post.title }} <em>({{ post.categorie }})</em></a></li>
+   {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+</div>

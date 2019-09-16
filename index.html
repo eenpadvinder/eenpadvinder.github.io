@@ -1,8 +1,9 @@
 ---
+title: Een Padvinder
 layout: default
 ---
 <ul class="posts-home">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p class="date">
@@ -28,3 +29,5 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+
+<a id="archief-link" href="/archief/"><i class="fas fa-hand-point-right"> </i>Naar de archieven</a>
